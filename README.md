@@ -1,8 +1,10 @@
 # An Airline Customer Value Analysis
 Data pelanggan maskapai penerbangan digunakan untuk mengklasifikasikan pelanggan, menganalisis karakteristik kategori pelanggan yang berbeda, membandingkan nilai pelanggan dari kategori pelanggan yang berbeda, memberikan layanan yang dipersonalisasi ke kategori pelanggan dengan nilai yang berbeda, dan merumuskan strategi pemasaran yang sesuai.
 
-## Deskripsi data:
+## Deskripsi data
 Data ini berisi informasi dasar, informasi penerbangan dan informasi titik dari 62.988 pelanggan. Ini berisi nomor kartu anggota, waktu keanggotaan, jenis kelamin, usia, level kartu anggota, dan jarak tempuh di jendela observasi. 44 atribut karakteristik seperti jumlah dan waktu penerbangan.
+
+Sumber Data : https://www.programmersought.com/article/48113472881/
 
 ## Insight K-Means Inertia
 1. Cluster 0 (Mid-low level customer) :
